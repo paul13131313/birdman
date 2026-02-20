@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#111422"/>
+  <g transform="translate(32,34)">
+    <!-- wing -->
+    <ellipse cx="0" cy="-2" rx="26" ry="3" fill="#4ecca3" opacity="0.85"/>
+    <!-- fuselage -->
+    <rect x="-10" y="-3" width="20" height="6" rx="3" fill="#eee"/>
+    <!-- propeller -->
+    <circle cx="12" cy="0" r="2" fill="#ffd700"/>
+    <line x1="12" y1="-6" x2="12" y2="6" stroke="#ffd700" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- tail -->
+    <line x1="-10" y1="0" x2="-16" y2="-5" stroke="#e94560" stroke-width="2" stroke-linecap="round"/>
+    <line x1="-10" y1="0" x2="-16" y2="3" stroke="#e94560" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>
